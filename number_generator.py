@@ -21,3 +21,4 @@ main_win.setLayout(v_line)
 button.clicked.connect(show_winner)
 main_win.show()
 app.exec_()
+
